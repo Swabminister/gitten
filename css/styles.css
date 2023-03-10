@@ -34,3 +34,17 @@ img {
     max-width: 100%; /* Bredde må maks fylde 100% */
     height: auto; /* Højden skal tilpasse sig */
 }
+
+
+.swag {
+    text-align: center;
+    color: mediumturquoise;
+    font-size: 420px;
+    background-color: darkviolet;
+
+}
+
+.swag:hover {
+    background-image: url("../images/suresok.png");
+    background-size: cover;
+}
